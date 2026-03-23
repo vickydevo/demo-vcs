@@ -1,2 +1,2 @@
 Hello world!
-Welcome from branch A.
+Welcome from branch B.
