@@ -1,1 +1,2 @@
 Hello world!
+Welcome from branch B.
